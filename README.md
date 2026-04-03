@@ -36,7 +36,7 @@ Desarrollador orientado a resultados con un enfoque firme en la **inclusión dig
 
 > "Construyendo software accesible, un commit a la vez."
 
-###Github Stats
+### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Richard0309&theme=dracula)](https://git.io/streak-stats)
 
 
