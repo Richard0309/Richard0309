@@ -40,5 +40,3 @@ Desarrollador orientado a resultados con un enfoque firme en la **inclusión dig
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Richard0309&theme=dracula)](https://git.io/streak-stats)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard0309)](https://github.com/Richard0309/github-readme-stats)
