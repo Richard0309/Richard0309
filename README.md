@@ -38,6 +38,8 @@ Desarrollador orientado a resultados con un enfoque firme en la **inclusión dig
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard0309&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard0309&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Richard0309&theme=dracula)](https://git.io/streak-stats)
+
+### 🌐 Lenguajes por Actividad Real (repos propios + organizaciones)
+![Metrics](github-metrics.svg)
 
