@@ -29,7 +29,7 @@ Desarrollador orientado a resultados con un enfoque firme en la **inclusión dig
 ### ✉️ Conectemos
 
 * 📧 **Correo:** [davidricardosantiago8@gmail.com](mailto:davidricardosantiago8@gmail.com)
-* 💼 **LinkedIn:** [david-santiago](https://linkedin.com/in/david-santiago)
+* 💼 **LinkedIn:** [david-santiago]([https://linkedin.com/in/david-santiago](https://www.linkedin.com/in/david-santiago-425aa2259/))
 * 🐙 **GitHub:** [Richard0309](https://github.com/Richard0309)
 
 ---
