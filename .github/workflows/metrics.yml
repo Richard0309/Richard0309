@@ -1,0 +1,46 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # diario a medianoche UTC
+  workflow_dispatch:        # ejecución manual
+  push:
+    branches: [main, master]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+          # Usuario objetivo
+          user: Richard0309
+
+          # Salida
+          filename: github-metrics.svg
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Afiliaciones: repos propios + colaboraciones + repos de orgs
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Incluir repos privados y de orgs
+          repositories_forks: yes
+          repositories_skipped: ""
+
+          # Plugin: lenguajes de programación (análisis profundo)
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_count: 12
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: ""
+
+          # Plugin: estadísticas generales
+          plugin_activity: no
+          config_timezone: America/Mexico_City
+          config_display: regular
